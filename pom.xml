@@ -19,5 +19,6 @@
             <artifactId>mahout-core</artifactId>
             <version>${mahout.version}</version>
         </dependency>
+
     </dependencies>
 </project>
